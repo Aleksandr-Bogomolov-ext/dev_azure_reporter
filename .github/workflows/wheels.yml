@@ -16,11 +16,8 @@ on:
 
 jobs:
   build_wheels:
-    name: Build wheels on ${{ matrix.os }}
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        os: [manylinux_x_y, win32, win-amd64]
+    name: Build wheels
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
