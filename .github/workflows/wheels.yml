@@ -30,7 +30,7 @@ jobs:
 
       - name: Build wheels
         #run: python -m cibuildwheel --output-dir wheelhouse
-        run: pip wheel -w wheelhouse .
+        run: pip wheel -r requirements.txt -w wheelhouse .
         # to supply options, put them in 'env', like:
         # env:
         #   CIBW_SOME_OPTION: value
