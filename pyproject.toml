@@ -1,0 +1,7 @@
+name = "dev_azure_reporter"
+version = "0.2.0"
+description = "A simple command-line tool to write fields of WorkItems at dev.azure.com"
+authors = [
+    "Aleksandr Bogomolov <aleksandr-bogomolov-ext@bayer.com>"
+]
+repository = "https://github.com/bayer-int/dats-dev_azure_reporter/"
