@@ -1,6 +1,0 @@
-dev_azure_reporter.py
-setup.py
-dev_azure_reporter.egg-info/PKG-INFO
-dev_azure_reporter.egg-info/SOURCES.txt
-dev_azure_reporter.egg-info/dependency_links.txt
-dev_azure_reporter.egg-info/top_level.txt

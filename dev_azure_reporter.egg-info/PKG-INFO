@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: dev-azure-reporter
-Version: 0.2
-Summary: A simple command-line tool to write fields of WorkItems at dev.azure.com
-Home-page: https://github.com/bayer-int/dats-dev_azure_reporter/
-Author: Aleksandr Bogomolov
-Author-email: aleksandr-bogomolov-ext@bayer.com
